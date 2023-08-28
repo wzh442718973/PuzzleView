@@ -16,6 +16,9 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
+
+import com.xiaopo.flying.photolayout.R;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
